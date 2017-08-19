@@ -11,4 +11,5 @@ The program can be used directly by including the sendkeys namespace and using t
     down = {DOWN}
     right = {RIGHT}
     left = {LEFT}
+    
 You can refer to form1.cs file for an example to use the dll file
