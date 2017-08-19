@@ -7,9 +7,9 @@ The program can be used directly by including the sendkeys namespace and using t
     Returns: 
         NULL
 2. Shortcuts:
-    up = {UP}
-    down = {DOWN}
-    right = {RIGHT}
+    up = {UP};
+    down = {DOWN};
+    right = {RIGHT};
     left = {LEFT}
     
 You can refer to form1.cs file for an example to use the dll file
